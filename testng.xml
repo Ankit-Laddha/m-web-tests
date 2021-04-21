@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite verbose="1" name="Web Tests Suite" annotations="JDK">
+
+    <test name="Web Test - Chrome">
+        <classes>
+            <class name="tests.AdvertisementTest"></class>
+        </classes>
+    </test>
+
+</suite>
