@@ -29,6 +29,8 @@
 ## Scenarios
 
 * Here I'm considering two happy flows related to Advertisement
+
+````text
 1. Create new Advertisement
 - Open homepage
 - Click on '+'
@@ -40,6 +42,8 @@
 - Pick any existing advertisement (in case of automation, we are creating new one using APIs)
 - Edit and save the details
 - Check on homepage you see the edited advertisement with new details
+````
+
 
 
 ----------------------
